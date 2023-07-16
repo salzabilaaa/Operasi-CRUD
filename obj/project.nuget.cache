@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rpI1hQhK8KIc6g3uunTWD7fHtvHU85pIkprURNYWmzE+spZhhhI6P8YPKE33ES3iL3AyKDwWtPMDxk61zARP8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\Downloads\\hospital\\hospital\\Hospital.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\mysqlconnector\\2.2.6\\mysqlconnector.2.2.6.nupkg.sha512"
+  ],
+  "logs": []
+}
